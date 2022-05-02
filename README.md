@@ -19,7 +19,7 @@ The original Gazebo world for the 4th floor of the TSRB was taken from here http
   - `Floor.blend` Blender file used to create the floor model that appears in the Gazebo world.
   - `maps/` Folder containing images representing the layout of the fourth floor of the TSRB.
 
-### Additional Resources
+### Additional resources
 - https://docs.google.com/presentation/d/1ElLLTqRQE16Dux6uiVr3GwRFHl_71B5ckcPgHxqvEUo/edit?usp=sharing
 - https://trello.com/c/VWUTJQsR/87-fletcher-2022sp
 - https://github.com/ivaROS/navigation_test
