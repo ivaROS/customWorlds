@@ -12,6 +12,6 @@ The original Gazebo world for the 4th floor of the TSRB was taken from here http
 5. If you have done everything correctly, your world should look like this: ![full](https://user-images.githubusercontent.com/30359960/166334726-df1587db-0632-418e-8869-93684d53b0ee.jpg)
 
 ### What's included in this repo
-* `models/`
-* `fourth_floor.world`
-* `references/`
+* `models/` The models used in the `fourth_floor.world` Gazebo world plus some extra ones. The majority of these models were obtained from https://data.nvision2.eecs.yorku.ca/3DGEMS/.
+* `fourth_floor.world` The main Gazebo file used to represent the fourth floor of the TSRB.
+* `references/` A backup folder containing files I created or referenced while trying to create the TSRB fourth floor world. None of these files are needed to run the `fourth_floor.world` file.
